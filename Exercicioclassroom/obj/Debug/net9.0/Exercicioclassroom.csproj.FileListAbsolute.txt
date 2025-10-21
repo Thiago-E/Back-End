@@ -1,0 +1,14 @@
+C:\Users\49631963870\Desktop\Back-End\Exercicioclassroom\bin\Debug\net9.0\Exercicioclassroom.exe
+C:\Users\49631963870\Desktop\Back-End\Exercicioclassroom\bin\Debug\net9.0\Exercicioclassroom.deps.json
+C:\Users\49631963870\Desktop\Back-End\Exercicioclassroom\bin\Debug\net9.0\Exercicioclassroom.runtimeconfig.json
+C:\Users\49631963870\Desktop\Back-End\Exercicioclassroom\bin\Debug\net9.0\Exercicioclassroom.dll
+C:\Users\49631963870\Desktop\Back-End\Exercicioclassroom\bin\Debug\net9.0\Exercicioclassroom.pdb
+C:\Users\49631963870\Desktop\Back-End\Exercicioclassroom\obj\Debug\net9.0\Exercicioclassroom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49631963870\Desktop\Back-End\Exercicioclassroom\obj\Debug\net9.0\Exercicioclassroom.AssemblyInfoInputs.cache
+C:\Users\49631963870\Desktop\Back-End\Exercicioclassroom\obj\Debug\net9.0\Exercicioclassroom.AssemblyInfo.cs
+C:\Users\49631963870\Desktop\Back-End\Exercicioclassroom\obj\Debug\net9.0\Exercicioclassroom.csproj.CoreCompileInputs.cache
+C:\Users\49631963870\Desktop\Back-End\Exercicioclassroom\obj\Debug\net9.0\Exercicioclassroom.dll
+C:\Users\49631963870\Desktop\Back-End\Exercicioclassroom\obj\Debug\net9.0\refint\Exercicioclassroom.dll
+C:\Users\49631963870\Desktop\Back-End\Exercicioclassroom\obj\Debug\net9.0\Exercicioclassroom.pdb
+C:\Users\49631963870\Desktop\Back-End\Exercicioclassroom\obj\Debug\net9.0\Exercicioclassroom.genruntimeconfig.cache
+C:\Users\49631963870\Desktop\Back-End\Exercicioclassroom\obj\Debug\net9.0\ref\Exercicioclassroom.dll

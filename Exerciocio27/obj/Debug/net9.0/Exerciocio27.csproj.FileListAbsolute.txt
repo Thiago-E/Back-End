@@ -1,0 +1,14 @@
+C:\Users\49631963870\Desktop\Back-End\Exerciocio27\bin\Debug\net9.0\Exerciocio27.exe
+C:\Users\49631963870\Desktop\Back-End\Exerciocio27\bin\Debug\net9.0\Exerciocio27.deps.json
+C:\Users\49631963870\Desktop\Back-End\Exerciocio27\bin\Debug\net9.0\Exerciocio27.runtimeconfig.json
+C:\Users\49631963870\Desktop\Back-End\Exerciocio27\bin\Debug\net9.0\Exerciocio27.dll
+C:\Users\49631963870\Desktop\Back-End\Exerciocio27\bin\Debug\net9.0\Exerciocio27.pdb
+C:\Users\49631963870\Desktop\Back-End\Exerciocio27\obj\Debug\net9.0\Exerciocio27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49631963870\Desktop\Back-End\Exerciocio27\obj\Debug\net9.0\Exerciocio27.AssemblyInfoInputs.cache
+C:\Users\49631963870\Desktop\Back-End\Exerciocio27\obj\Debug\net9.0\Exerciocio27.AssemblyInfo.cs
+C:\Users\49631963870\Desktop\Back-End\Exerciocio27\obj\Debug\net9.0\Exerciocio27.csproj.CoreCompileInputs.cache
+C:\Users\49631963870\Desktop\Back-End\Exerciocio27\obj\Debug\net9.0\Exerciocio27.dll
+C:\Users\49631963870\Desktop\Back-End\Exerciocio27\obj\Debug\net9.0\refint\Exerciocio27.dll
+C:\Users\49631963870\Desktop\Back-End\Exerciocio27\obj\Debug\net9.0\Exerciocio27.pdb
+C:\Users\49631963870\Desktop\Back-End\Exerciocio27\obj\Debug\net9.0\Exerciocio27.genruntimeconfig.cache
+C:\Users\49631963870\Desktop\Back-End\Exerciocio27\obj\Debug\net9.0\ref\Exerciocio27.dll
