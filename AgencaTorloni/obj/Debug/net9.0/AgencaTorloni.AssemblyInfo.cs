@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgencaTorloni")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad274c3ecfd0ba76f347440f013985a0071cc1da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d567fd3be23d7a161357d418b313e1be4e77d969")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgencaTorloni")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgencaTorloni")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
