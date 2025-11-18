@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\49631963870\\Desktop\\Back-End\\POO\\Pilares\\Heranças\\Pilares.csproj",
-      "projectName": "Pilares",
-      "projectPath": "C:\\Users\\49631963870\\Desktop\\Back-End\\POO\\Pilares\\Heranças\\Pilares.csproj",
+      "projectUniqueName": "C:\\Users\\49631963870\\Desktop\\Back-End\\POO\\Pilares\\Exercicios\\Interface\\Exercicio2\\Exercicio2.csproj",
+      "projectName": "Exercicio2",
+      "projectPath": "C:\\Users\\49631963870\\Desktop\\Back-End\\POO\\Pilares\\Exercicios\\Interface\\Exercicio2\\Exercicio2.csproj",
       "packagesPath": "C:\\Users\\49631963870\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\49631963870\\Desktop\\Back-End\\POO\\Pilares\\Heranças\\obj\\",
+      "outputPath": "C:\\Users\\49631963870\\Desktop\\Back-End\\POO\\Pilares\\Exercicios\\Interface\\Exercicio2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\49631963870\\AppData\\Roaming\\NuGet\\NuGet.Config"
